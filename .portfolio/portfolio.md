@@ -41,7 +41,7 @@ architecture:
 
 # Diagrammes d'architecture (optionnel)
 diagrams:
-  - path: "https://raw.githubusercontent.com/xAMA0x/VoiceGuard/main/.portfolio/diagrams/voiceguard-architecture.svg"
+  - path: "https://raw.githubusercontent.com/xAMA0x/VoiceGuard/main/.portfolio/diagrams/diagram.svg"
     title: "Architecture Hybride (C++ / Python)"
     description: "Flux de communication entre le module C++ (Credential Provider) et le service Python (Whisper) via IPC"
 
